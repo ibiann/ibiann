@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- ibiann -->
 <a href="#" target="_blank">
   <img src="svg/ibiann.svg" width="1200" alt="ibiann" />
 </a>
