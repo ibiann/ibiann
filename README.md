@@ -62,3 +62,5 @@
 </div>
 
 <br>
+
+<h2 align="center"> All ideas from https://github.com/trungquandev</h2>
